@@ -2,6 +2,7 @@ name: bokchoi
 favicon: null
 layout_spectrum: 0.8262129097711295
 typography_spectrum: 0.33722203876823187
+title: bokchoi.net
 cta:
   domain: null
   bucket: null
