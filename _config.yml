@@ -1,0 +1,28 @@
+name: bokchoi
+favicon: null
+layout_spectrum: 0.8262129097711295
+typography_spectrum: 0.33722203876823187
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.23750930395908654
+  lightness: 0.9873037594370544
+  saturation: 0.8059497049544007
+  rhythmicContrast: 0.19351467886008322
+purpose: []
